@@ -1,5 +1,5 @@
 {
-  "name": "@reactgular/layouts",
+  "name": "@canvasgfx/layouts",
   "version": "1.0.0-beta.2",
   "description": "Layouts is an Angular component library that implements a *border layout* using a container that can dock child panels into Top, Left, Right, Bottom  and Center regions.",
   "author": "reactgular.com",
@@ -7,10 +7,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactgular/layouts"
+    "url": "https://github.com/canvasgfx/layouts"
   },
   "bugs": {
-    "url": "https://github.com/reactgular/layouts/issues"
+    "url": "https://github.com/canvasgfx/layouts/issues"
   },
   "keywords": [
     "angular",
