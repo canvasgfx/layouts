@@ -1,4 +1,4 @@
-import {distinctStringify, toObservable} from '@reactgular/observables';
+import {distinctStringify, toObservable} from '@canvasgfx/observables';
 import {combineLatest, Observable} from 'rxjs';
 import {map} from 'rxjs/operators';
 import {PanelConfig} from '../types/panel-config';

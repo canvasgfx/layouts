@@ -1,5 +1,5 @@
 import {ChangeDetectionStrategy, Component, Input} from '@angular/core';
-import {LayoutDock} from '@reactgular/layouts';
+import {LayoutDock} from '@canvasgfx/layouts';
 import {Observable} from 'rxjs';
 import {EditableModel} from '../editable-state/editable-model';
 import {EditableStateService} from '../editable-state/editable-state.service';

@@ -8,7 +8,7 @@ import {MatIconModule} from '@angular/material/icon';
 import {MatSelectModule} from '@angular/material/select';
 import {MatSlideToggleModule} from '@angular/material/slide-toggle';
 import {MatTooltipModule} from '@angular/material/tooltip';
-import {LayoutsModule} from '@reactgular/layouts';
+import {LayoutsModule} from '@canvasgfx/layouts';
 import {HomeButtonModule} from '../../shared/home-button/home-button.module';
 import {SliderModule} from '../../shared/slider/slider.module';
 import {EditDialogComponent} from './edit-dialog/edit-dialog.component';

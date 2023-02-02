@@ -8,7 +8,7 @@ import {
     Output,
     TemplateRef
 } from '@angular/core';
-import {Stateful} from '@reactgular/stateful';
+import {Stateful} from '@canvasgfx/stateful';
 import {Observable} from 'rxjs';
 import {ANIMATION_DEFAULT} from '../../internal/types/animation-default';
 import {InternalPanel, InternalPanels} from '../../internal/types/internal-panels';

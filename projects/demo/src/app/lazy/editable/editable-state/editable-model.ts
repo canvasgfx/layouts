@@ -1,4 +1,4 @@
-import {LayoutDock, PanelConfig} from '@reactgular/layouts';
+import {LayoutDock, PanelConfig} from '@canvasgfx/layouts';
 
 export interface EditableModels {
     [dock: string]: EditableModel;

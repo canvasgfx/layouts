@@ -4,9 +4,9 @@
   "lib": {
     "entryFile": "src/public-api.ts",
     "umdModuleIds": {
-      "@reactgular/destroyable": "destroyable",
-      "@reactgular/observables": "observables",
-      "@reactgular/stateful": "stateful"
+      "@canvasgfx/destroyable": "destroyable",
+      "@canvasgfx/observables": "observables",
+      "@canvasgfx/stateful": "stateful"
     }
   }
 }

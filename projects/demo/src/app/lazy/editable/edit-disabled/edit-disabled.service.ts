@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {Destroyable} from '@reactgular/destroyable';
+import {Destroyable} from '@canvasgfx/destroyable';
 import {BehaviorSubject, Observable} from 'rxjs';
 import {finalize, takeUntil} from 'rxjs/operators';
 

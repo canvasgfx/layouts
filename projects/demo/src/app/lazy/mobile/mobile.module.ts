@@ -7,7 +7,7 @@ import {MatInputModule} from '@angular/material/input';
 import {MatPaginatorModule} from '@angular/material/paginator';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatTooltipModule} from '@angular/material/tooltip';
-import {LayoutsModule} from '@reactgular/layouts';
+import {LayoutsModule} from '@canvasgfx/layouts';
 import {FakeCardsModule} from '../../shared/fake-cards/fake-cards.module';
 import {HomeButtonModule} from '../../shared/home-button/home-button.module';
 import {FilterBarComponent} from './filter-bar/filter-bar.component';

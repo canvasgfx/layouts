@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {Stateful} from '@reactgular/stateful';
+import {Stateful} from '@canvasgfx/stateful';
 import {Observable} from 'rxjs';
 import {distinctUntilChanged, map} from 'rxjs/operators';
 import {MobileModel} from './mobile.model';

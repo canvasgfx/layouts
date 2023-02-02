@@ -1,6 +1,6 @@
 import {Injectable} from '@angular/core';
-import {LayoutDock} from '@reactgular/layouts';
-import {Stateful} from '@reactgular/stateful';
+import {LayoutDock} from '@canvasgfx/layouts';
+import {Stateful} from '@canvasgfx/stateful';
 import {Observable} from 'rxjs';
 import {map} from 'rxjs/operators';
 import {EditableModel, EditableModels} from './editable-model';

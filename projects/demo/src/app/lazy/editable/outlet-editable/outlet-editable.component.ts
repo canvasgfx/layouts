@@ -1,7 +1,7 @@
 import {ChangeDetectionStrategy, Component, Optional, Output, SkipSelf, ViewContainerRef} from '@angular/core';
 import {MatDialog} from '@angular/material/dialog';
-import {Destroyable} from '@reactgular/destroyable';
-import {isLayoutOverlayEvent, LayoutConfig, LayoutEvent} from '@reactgular/layouts';
+import {Destroyable} from '@canvasgfx/destroyable';
+import {isLayoutOverlayEvent, LayoutConfig, LayoutEvent} from '@canvasgfx/layouts';
 import {Subject} from 'rxjs';
 import {EditDisabledService} from '../edit-disabled/edit-disabled.service';
 import {EditableModel} from '../editable-state/editable-model';

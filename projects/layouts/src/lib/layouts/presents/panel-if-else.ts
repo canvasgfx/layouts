@@ -1,4 +1,4 @@
-import {toObservable} from '@reactgular/observables';
+import {toObservable} from '@canvasgfx/observables';
 import {Observable} from 'rxjs';
 import {switchMap} from 'rxjs/operators';
 import {PanelConfig} from '../types/panel-config';

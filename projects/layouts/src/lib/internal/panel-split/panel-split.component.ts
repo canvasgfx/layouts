@@ -7,7 +7,7 @@ import {
     TemplateRef,
     ViewEncapsulation
 } from '@angular/core';
-import {Destroyable} from '@reactgular/destroyable';
+import {Destroyable} from '@canvasgfx/destroyable';
 import {BehaviorSubject, Observable} from 'rxjs';
 import {distinctUntilChanged, scan, takeUntil} from 'rxjs/operators';
 import {LayoutEvent} from '../../layouts/layout-events/layout-events';

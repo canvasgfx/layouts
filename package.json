@@ -1,6 +1,6 @@
 {
   "name": "@canvasgfx/layouts",
-  "version": "1.0.2",
+  "version": "0.0.0",
   "description": "Layouts is an Angular component library that implements a *border layout* using a container that can dock child panels into Top, Left, Right, Bottom  and Center regions.",
   "author": "reactgular.com",
   "homepage": "https://canvasgfx.com/",

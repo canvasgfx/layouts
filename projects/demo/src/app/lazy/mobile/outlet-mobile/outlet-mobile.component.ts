@@ -10,7 +10,7 @@ import {
     PanelPartialReveal,
     PanelSlide,
     PanelStatic
-} from '@reactgular/layouts';
+} from '@canvasgfx/layouts';
 import {Observable} from 'rxjs';
 import {map} from 'rxjs/operators';
 import {MobileState} from '../mobile-state/mobile-state.service';
